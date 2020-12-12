@@ -1,0 +1,6 @@
+body{font-family: 'Fira Sans', sans-serif;}
+.logo h1{font-size: 50px;}
+.logo h6{font-size: 12px;}
+.navbar-nav a:hover{background-color:red; border-radius:10px;}
+.dropdown-menu{font-size: 15px; width: fit-content; border-radius:10px;}
+.side-box h3{font-size: 30px;}
