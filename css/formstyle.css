@@ -1,0 +1,11 @@
+html{scroll-behavior: smooth;}
+body{font-family: 'Fira Sans', sans-serif;}
+body{background-image: url(../images/background.jpg); background-size: 100%; background-repeat: no-repeat; position:relative;}
+.logo h1{font: size 20px;}
+.logo h6{font-size: 10px;}
+.bg-white{background-color:white;}
+.navbar{background-color: green;}
+.dropdown-menu{font-size: 15px; width: fit-content; border-radius:10px;}
+.navbar-nav a:hover{background-color:red; border-radius:10px;}
+.col-md{color:black}
+@include media-breakpoint-between(md,sm) {color:black}

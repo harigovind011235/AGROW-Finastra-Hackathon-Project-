@@ -1,0 +1,12 @@
+html{scroll-behavior: smooth;}
+body{font-family: 'Fira Sans', sans-serif;}
+.logo h1{font: size 20px;}
+.logo h6{font-size: 10px;}
+.bg-white{background-color:white;}
+.dropdown-menu{font-size: 15px; width: fit-content; border-radius:10px;}
+.aboutUs p{font-size: 16px;line-height: auto;}
+.aboutUs h3{font-size: 40px; line-height: auto;}
+.service h3{font-size: 40px; line-height: auto;}
+.connecting{background-image: url(../images/footer.jpg); opacity: 1; background-size: 100%; background-repeat: no-repeat;}
+.connect h3{font-size: 40px; line-height: auto;}
+.navbar-nav a:hover{background-color:red; border-radius:10px;}

@@ -1,0 +1,12 @@
+html{scroll-behavior: smooth;}
+body{font-family: 'Fira Sans', sans-serif;}
+.logo h1{font-size: 20px;}
+.logo h6{font-size: 10px;}
+.bg-white{background-color:white;}
+.dropdown-menu{font-size: 15px; width: fit-content; border-radius:10px;}
+.property{height: 200px,width: 200px,background-color: orange;}
+#mid{ display: flex,  align-items: center, height:500px, background-color: BOFFOS;}
+.footer{background-color: #3A5311}
+.connect{background-image: url(../images/contact.jpg); opacity:1; background-size: 100%; background-repeat: no-repeat;}
+ul li{ line-height: 1.5625, padding: 0 0 4px 30px, background-position: 0 5px;}
+.navbar-nav a:hover{background-color:red; border-radius:10px;}
