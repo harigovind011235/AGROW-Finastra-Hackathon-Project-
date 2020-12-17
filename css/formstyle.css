@@ -8,4 +8,12 @@ body{background-image: url(../images/background.jpg); background-size: 100%; bac
 .dropdown-menu{font-size: 15px; width: fit-content; border-radius:10px;}
 .navbar-nav a:hover{background-color:red; border-radius:10px;}
 .col-md{color:black}
-@include media-breakpoint-between(md,sm) {color:black}
+@media screen and (max-width:991px){
+    .myform{
+        color :black;}
+    }
+
+    @media screen and (max-width:991px){
+        .myhead{
+            color: white;}
+        }
