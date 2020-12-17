@@ -4,3 +4,5 @@ body{font-family: 'Fira Sans', sans-serif;}
 .navbar-nav a:hover{background-color:red; border-radius:10px;}
 .dropdown-menu{font-size: 15px; width: fit-content; border-radius:10px;}
 .side-box h3{font-size: 30px;}
+.connect{background-image: url(../images/connect\ image\ 01.jpg); background-size: cover; background-repeat: no-repeat;}
+.connect h3{font-size: 40px; line-height: auto;}
