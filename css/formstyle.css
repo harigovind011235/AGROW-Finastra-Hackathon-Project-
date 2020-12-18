@@ -13,7 +13,7 @@ body{background-image: url(../images/background.jpg); background-size: 100%; bac
         color :black;}
     }
 
-    @media screen and (max-width:991px){
+ @media screen and (max-width:991px){
         .myhead{
             color: white;}
         }
