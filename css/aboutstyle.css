@@ -1,6 +1,6 @@
 html{scroll-behavior: smooth;}
 body{font-family: 'Fira Sans', sans-serif;}
-.logo h1{font-size 50px;}
+.logo h1{font-size: 50px;}
 .logo h6{font-size: 12px;}
 .bg-white{background-color:white;}
 .dropdown-menu{font-size: 15px; width: fit-content; border-radius:10px;}
